@@ -9,15 +9,15 @@ The bulk of our code for these functionalities is located in the chat folder, Ma
 
 ### Signing into the app:
 
-![sign in](images/user_test_1.png)\t\t\t\t\t![welcome](images/user_test_2.png)
+![sign in](images/user_test_1.png)![welcome](images/user_test_2.png)
 
 ### Setting a wake up time and hitting the button:
 
-![clock](images/user_test_3.png)\t\t\t\t\t![I'm awake](images/user_test_6.png)
+![clock](images/user_test_3.png)![I'm awake](images/user_test_6.png)
 
 ### Chatting with other users:
 
-![sign in](images/user_test_4.png)\t\t\t\t\t![welcome](images/user_test_5.png)
+![sign in](images/user_test_4.png)![welcome](images/user_test_5.png)
 
 ## Session Results
 
